@@ -302,3 +302,7 @@ header{
 .sessao-contrate a{
     font-size: 1.5rem;
 }
+
+html{
+    scroll-behavior: smooth;
+}
