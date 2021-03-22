@@ -6,7 +6,11 @@ Lá, encontra-se informações pessoais sobre meus conhecimentos no ramo da prog
 # sites que me ajudaram na criação da página:
 
 https://uigradients.com/
+
 https://favicon.io/
+
 http://unsplash.com/
+
 https://fomantic-ui.com/
+
 https://fonts.google.com/
